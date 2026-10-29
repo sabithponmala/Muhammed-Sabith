@@ -1,0 +1,6 @@
+{
+  "name": "AURA ATELIER - Luxury Dress Boutique",
+  "description": "A modern, premium online dress boutique featuring festive couture, ethnic elegance, seamless cart drawer, and WhatsApp instant ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
